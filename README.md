@@ -1,0 +1,1 @@
+I successfully completed the Cisco Networking Academy Ethical Hacker capstone project. The capstone demonstrated the practical application of ethical hacking concepts, including identifying system and network vulnerabilities, analyzing network traffic, exploiting identified weaknesses, and implementing appropriate remediation techniques to enhance the security of systems and data
